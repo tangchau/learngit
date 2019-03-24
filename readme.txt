@@ -1,2 +1,2 @@
-Git is a version control stystem
-Git is free sortware
+Git is a distributed version control stystem
+Git is free sorftware 
